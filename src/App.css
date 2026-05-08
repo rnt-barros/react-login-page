@@ -1,0 +1,16 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Helvetica,sans-serif;
+  color:#fff;
+}
+
+.App{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  min-height:100vh;
+  overflow:hidden;
+  background: radial-gradient(circle at center, #3b1361 0%, #160320 45%, #07010d 100%);
+}
